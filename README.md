@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 <h1 align="center">Hi, welcome to ✨ Kiara's Github ✨!</h1>
 
 ### My name is Kiara Han Trinh
@@ -9,10 +8,14 @@
 🌱 With experience in Backend Development, Frontend Development, and Product Management, I am currently looking for full-time Software Engineering roles starting in June 2024.
 
 🌱 A few facts about me:
-    ⚡Computer Science and Studio Art (honors thesis) at Dickinson College.
-    ⚡I am passionate about end-user products. I have worked to build/enhance a tech mentoring platform, an e-wallet, and an e-commerce website.
-    ⚡I have been a dedicated volunteer for educational and non-profit organizations with different roles in product and web development.
 
+  ⚡Computer Science and Studio Art (honors thesis) at Dickinson College.
+    
+  ⚡I am passionate about end-user products. I have worked on a tech mentoring platform, an e-wallet, and an e-commerce website.
+    
+  ⚡I have been a dedicated volunteer for educational and non-profit organizations with different roles in product and web development.
+
+&nbsp;
 <p align="center">
  <a href="https://www.linkedin.com/in/hantrinh/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kiara's LinkedIn"/>
@@ -47,4 +50,3 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
--->
