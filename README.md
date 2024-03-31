@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi, welcome to ✨ Kiara's Github ✨!</h1>
 
 ### My name is Kiara Han Trinh
@@ -15,29 +13,30 @@
     
   ⚡I have been a dedicated volunteer for educational and non-profit organizations with different roles in product and web development.
 
-&nbsp;
+<br />
 <p align="center">
  <a href="https://www.linkedin.com/in/hantrinh/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kiara's LinkedIn"/>
  </a>
 </p>
-<br />
 
 ### I have worked as...
-<ul>
-  <li> A Software Engineer and Software Engineer Intern at <a href="https://techsphere.app/"> TechSphere </a></li>
-  <li> A Software Engineer Intern at<a href="https://wearefram.com/"> Fram</a></li>
-  <li> A Product Manager Intern at<a href="https://vn.linkedin.com/company/zalopay"> ZaloPay</a></li>
-  <li> A Product Analyst at<a href="https://steamforvietnam.org/en"> STEAM for Vietnam Foundation </a></li>
-</ul>
+🍃 A Software Engineer and Software Engineer Intern at [TechSphere](https://techsphere.app/)
+
+🍃 A Software Engineer Intern at [Fram](https://wearefram.com/)
+
+🍃 A Product Manager Intern at [ZaloPay](https://vn.linkedin.com/company/zalopay)
+
+🍃 A Product Analyst at [STEAM for Vietnam Foundation](https://steamforvietnam.org/en)
+
 
 ### Outside of school/work, I created...
-<ul>
-  <li><a href="https://github.com/walnuthanhan/PlatypusOS"> PlatypusOS </a>A Simple 16-bit Operating System</li>
-  <li><a href="https://github.com/jmbb1720/SwapD">SwapD </a>A Skill-exchange Platform for Dickinson College</li>
-</ul>
+🍃 [PlatypusOS](https://github.com/walnuthanhan/PlatypusOS) - A Simple 16-bit Operating System
 
-## I have used...
+🍃 [SwapD](https://github.com/jmbb1720/SwapD) - A Skill-exchange Platform for Dickinson College
+
+
+##Ê I have used...
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
