@@ -36,7 +36,7 @@
 🍃 [SwapD](https://github.com/jmbb1720/SwapD) - A Skill-exchange Platform for Dickinson College
 
 
-##Ê I have used...
+### I have used...
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
