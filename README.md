@@ -21,19 +21,19 @@
 </p>
 
 ### I have worked as...
-🍃 A Software Engineer and Software Engineer Intern at [TechSphere](https://techsphere.app/)
+🔑 A Software Engineer and Software Engineer Intern at [TechSphere](https://techsphere.app/)
 
-🍃 A Software Engineer Intern at [Fram](https://wearefram.com/)
+🔑 A Software Engineer Intern at [Fram](https://wearefram.com/)
 
-🍃 A Product Manager Intern at [ZaloPay](https://vn.linkedin.com/company/zalopay)
+🔑 A Product Manager Intern at [ZaloPay](https://vn.linkedin.com/company/zalopay)
 
-🍃 A Product Analyst at [STEAM for Vietnam Foundation](https://steamforvietnam.org/en)
+🔑 A Product Analyst at [STEAM for Vietnam Foundation](https://steamforvietnam.org/en)
 
 
 ### Outside of school/work, I created...
-🍃 [PlatypusOS](https://github.com/walnuthanhan/PlatypusOS) - A Simple 16-bit Operating System
+🔑 [PlatypusOS](https://github.com/walnuthanhan/PlatypusOS) - A Simple 16-bit Operating System
 
-🍃 [SwapD](https://github.com/jmbb1720/SwapD) - A Skill-exchange Platform for Dickinson College
+🔑 [SwapD](https://github.com/jmbb1720/SwapD) - A Skill-exchange Platform for Dickinson College
 
 
 ### I have used...
