@@ -3,7 +3,7 @@
 ### My name is Kiara Han Trinh
 🌱 Software engineer by day, artist by night.
 
-🌱 With experience in Backend Development, Frontend Development, and Product Management, I am currently looking for full-time Software Engineering roles starting in June 2024.
+🌱 With experience in Backend Development, Frontend Development, and Product Management, I am currently looking for full-time Software Engineering roles starting in July 2024.
 
 🌱 A few facts about me:
 
